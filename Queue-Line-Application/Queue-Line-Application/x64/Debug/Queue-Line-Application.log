@@ -1,0 +1,8 @@
+﻿  Queue-Line-Application.cpp
+C:\Users\DELL\Desktop\C++ Projects\General\Queue-Line-Application\Queue-Line-Application\clsString.h(39,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\Desktop\C++ Projects\General\Queue-Line-Application\Queue-Line-Application\clsString.h(44,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\Desktop\C++ Projects\General\Queue-Line-Application\Queue-Line-Application\clsString.h(56,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\Desktop\C++ Projects\General\Queue-Line-Application\Queue-Line-Application\clsString.h(193,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\Desktop\C++ Projects\General\Queue-Line-Application\Queue-Line-Application\clsString.h(324,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\DELL\Desktop\C++ Projects\General\Queue-Line-Application\Queue-Line-Application\clsString.h(372,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  Queue-Line-Application.vcxproj -> C:\Users\DELL\Desktop\C++ Projects\General\Queue-Line-Application\x64\Debug\Queue-Line-Application.exe
